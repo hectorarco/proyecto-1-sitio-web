@@ -1,0 +1,15 @@
+#agrupar {
+width: 950;
+margin: 15px auto;
+text-align: left;
+}
+#menu {
+    background: #cccccc;
+    padding: 5px 15px;
+}
+#menu li {
+    display: inline-block ;
+    list-style: none;
+    padding: 15px;
+    font: bold 14px verdana, sans-serif;
+}
